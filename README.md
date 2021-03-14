@@ -5,5 +5,5 @@ Documentation créé le 10 octobre 2014 qui présente l'installation de VirtualB
 
 Elle peut être utilisée pour l'installation d'une VM Windows 10 et CentOS 7 ou 8. Le principe d'installation est le même en 2021.
 
-Une autre documentation est disponible pour l'installation de VirtualBox sous une distribution Linux Debian Stable version 10. En effet, l'installation est plus compliquée que sous CentOS.
+Une autre documentation en **markdown** est disponible pour l'installation de VirtualBox sous une distribution Linux Debian Stable version 10. En effet, l'installation est plus compliquée que sous CentOS.
 
